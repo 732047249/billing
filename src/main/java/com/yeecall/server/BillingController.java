@@ -1,4 +1,4 @@
-package com.yeecall;
+package com.yeecall.server;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
